@@ -10,6 +10,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 ## Code completion tools
 
 - [Google Gemini Code Assist](https://codeassist.google) - Code completion and generation from Google Cloud.
+- [AlphaEvolve ] (
 - [GitHub Copilot](https://github.com/features/copilot) - Pair programmer that offers autocomplete-style suggestions as you code.
 - [CodiumAI](https://www.codium.ai/) - Analyzes code and generates meaningful tests.
 - [Codeium](https://www.codeium.com/) - Free code acceleration toolkit with autocomplete and search.
@@ -122,7 +123,8 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Awesome-Ai-Tools](https://github.com/ikaijua/Awesome-AITools) - Collection of tools across many categories.
 - [Awesome Ai DevTools](https://github.com/jamesmurdza/awesome-ai-devtools) - Developer-focused tools and resources powered by language models.
 
-
+### Code Generation / AI Coding Tools
+- [AlphEvolve](https://alphevolve.com) – AI-powered coding evolution platform that assists with code generation, optimization, and intelligent project scaffolding.
 
 [^21]: https://github.com/prakashdakua/awesome-readme
 
